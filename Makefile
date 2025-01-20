@@ -14,3 +14,6 @@ $(BIN_DIR)/$(BIN): $(SRC_DIR)/$(SRC)
 
 clean:
 	rm -r bin
+
+install:
+	cp bin/scrrain /usr/local/bin/scrrain
