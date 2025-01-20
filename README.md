@@ -1,6 +1,8 @@
 <h1 align="center">scrrain</h1>
 <p align="center">A TTY rain screensaver</p>
 
+![preview](img/preview.gif)
+
 # Usage
 ```bash
 scrrain [-m 'message'] [-l]
